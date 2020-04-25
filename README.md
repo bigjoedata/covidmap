@@ -15,7 +15,7 @@ Other sources initially consulted include:<br>
 https://github.com/nytimes/covid-19-data<br>
 https://github.com/btskinner/spatial<br>
 <br>
-Tools used include:
+Tools used include:<br>
 deck.gl / PyDeck<br>
 Streamlit.io<br>
 Python<br>
