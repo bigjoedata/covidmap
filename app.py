@@ -135,9 +135,9 @@ datamerged, uniquedates = load_JHU_data()
 date_value = st.empty()
 date_slider = st.empty()
 
-st.subheader("Animation")
+#st.subheader("Animation")
 animations = {"None": None, "Slow": 0.4, "Medium": 0.2, "Fast": 0.05}
-animate = st.radio("", options=list(animations.keys()), index=2)
+animate = st.sidebar.radio("Animation Speed", options=list(animations.keys()), index=0)
 animation_speed = animations[animate]
 deck_map = st.empty()
 
