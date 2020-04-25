@@ -1,6 +1,6 @@
 # covidmap
-[LIVE LINK HERE](https://damp-spire-98522.herokuapp.com/)
-This is a basic covid map to show deaths from the Covid-19 virus. It automatically updates with the latest data.<br>
+[LIVE LINK HERE](https://damp-spire-98522.herokuapp.com/)<br>
+This is a basic covid map to show deaths from the Covid-19 virus. It automatically updates with the latest data. Data comes from the [JHU Covid Map(https://coronavirus.jhu.edu/map.html)<br>
 <br>
 Ideally it would allow more configurability, but I'm just releasing as-is.<br>
 <br>
